@@ -1,0 +1,126 @@
+body {
+	display: block;
+	margin: 0px;
+	background-color: #fff;
+}
+
+span#restau {
+	font-size: 21px;
+	color: black;
+	font-family: serif;
+	letter-spacing: 2px;
+	margin-left: 39.5%;
+	position: absolute;
+	margin-top: -32px;
+}
+
+.container {
+	border-radius: 6px;
+	box-shadow: 0px 0px 5px 0px black;
+	background-color: white;
+	width: 438px;
+	height: 262px;
+	margin: 0 auto;
+	margin-top: 10%;
+	margin-left: 35%;
+}
+
+input[type="text"] {
+	-webkit-appearance: textfield;
+	background-color: white;
+	-webkit-rtl-ordering: logical;
+	cursor: text;
+	padding: 1px;
+	border-width: 1px;
+	border-style: inset;
+	width: 290px;
+	height: 35px;
+	margin-left: 64px;
+	padding-left: 20px;
+	margin-top: 83px;
+}
+
+input[type="password"] {
+	background-color: white;
+	-webkit-rtl-ordering: logical;
+	cursor: text;
+	padding: 0px;
+	border-width: 1px;
+	border-style: inset;
+	width: 290px;
+	height: 35px;
+	margin-left: 66px;
+	padding-left: 21px;
+	margin-top: 30px;
+}
+
+input[type="submit"] {
+	letter-spacing: normal;
+	word-spacing: normal;
+	text-indent: 0px;
+	text-shadow: none;
+	display: inline-block;
+	text-align: start;
+	margin: 0em;
+	font: 400 13.3333px Arial;
+	position: absolute;
+	background-color: #C83A2A;
+	border-color: #2d4259;
+	color: #ffffff;
+	height: 30px;
+	font-size: 14px;
+	padding-left: 27px;
+	width: 86px;
+	border-radius: 7px;
+	border: 1px solid white;
+	margin-left: 14.5%;
+	margin-top: 7%;
+}
+
+span#logintab {
+	color: #C83A2A;
+	margin-top: 17px;
+	position: absolute;
+	margin-left: 18px;
+	font-size: 20px;
+	font-family: serif;
+	letter-spacing: 0px;
+}
+
+span#loginexp {
+	color: #666;
+	margin-top: 45px;
+	position: absolute;
+	margin-left: 18px;
+	font-size: 16px;
+	font-family: serif;
+	letter-spacing: 0px;
+}
+
+.register {
+	margin-left: 0.8%;
+	position: absolute;
+	color: black;
+	margin-top: 4%;
+}
+
+a.reg {
+	color: #4CB96B;
+	cursor: pointer;
+	text-decoration: none;
+	position: absolute;
+	margin-top: 25%;
+	margin-left: 29%;
+}
+
+#icon_fa {
+	left: -16px;
+	position: relative;
+	margin-left: -293px;
+	display: inline-block;
+	font: normal normal normal 14px/1 FontAwesome;
+	font-size: inherit;
+	text-rendering: auto;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}

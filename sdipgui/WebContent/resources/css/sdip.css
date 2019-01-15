@@ -1,0 +1,30 @@
+form#Sample {
+	margin-left: 150px;
+}
+
+form#Peer {
+	margin-left: 125px;
+}
+
+input.submitPeer {
+	letter-spacing: normal;
+	word-spacing: normal;
+	text-indent: 0px;
+	text-shadow: none;
+	display: inline-block;
+	text-align: start;
+	margin: 0em;
+	font: 400 13.3333px Arial;
+	position: relative;
+	margin-top: 5px;
+	margin-left: 213px;
+	background-color: #364F6A;
+	border-color: #2d4259;
+	color: #ffffff;
+	height: 30px;
+	font-size: 14px;
+	padding-left: 22px;
+	width: 86px;
+	border-radius: 7px;
+	border: 1px solid white;
+}
